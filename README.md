@@ -7,6 +7,6 @@ Next, use ```npm start``` to start the app in your browser.
 
 ## Screenshots ## 
 ### Book Shelf ###
-[Book Shelf](images/bookshelf.png)
+![Book Shelf](images/bookshelf.png)
 ### Search Results ###
-[Search Results](images/search.png)
+![Search Results](images/search.png)
